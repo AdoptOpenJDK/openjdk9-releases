@@ -283,7 +283,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 194660571,
-        "download_count": 74,
+        "download_count": 75,
         "created_at": "2017-09-17T17:14:10Z",
         "updated_at": "2017-09-17T17:14:25Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-releases/releases/download/jdk-9%2B181/OpenJDK9_x64_Linux_jdk-9.181.tar.gz"
@@ -411,7 +411,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 191582742,
-        "download_count": 139,
+        "download_count": 140,
         "created_at": "2017-09-17T17:14:42Z",
         "updated_at": "2017-09-17T17:15:00Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-releases/releases/download/jdk-9%2B181/OpenJDK9_x64_Win_jdk-9.181.zip"
