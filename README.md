@@ -8,10 +8,6 @@ This (legacy) repository is for publishing all of the tagged releases which matc
 
 These binaries are built on a shared CI infrastructure (see http://ci.adoptopenjdk.net) using an openly shared build tool chain (see https://github.com/AdoptOpenJDK/openjdk-build)
 
-## Download OpenJDK Release binaries
-
-Find all the prebuilt AdoptOpenJDK OpenJDK release binaries [here](https://github.com/AdoptOpenJDK/openjdk9-releases/releases)
-
 ## How to get involved
 
 Join the mailing list at: http://mail.openjdk.java.net/mailman/listinfo/adoption-discuss  
